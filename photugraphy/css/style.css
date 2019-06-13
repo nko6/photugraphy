@@ -1,0 +1,112 @@
+body{
+  font: 15px/1.5 Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+  background:url(../images/mainbck.jpg) ;
+}
+img{
+  border-radius: 8px;
+
+
+}
+footer{
+  background-color:
+}
+
+/* Global */
+
+.container{
+  width: 90%;
+  margin: auto;
+  overflow: hidden;
+}
+#main{
+  background-image:url(../images/background.gif);
+  border-radius: 8px;
+}
+#custom{
+width:115px;
+margin: 0;
+border-radius: 4px;
+padding: 4px ;
+border:0;
+
+}
+header{
+  background-color:	#262626;
+  padding: 0;
+
+  margin:0;
+    border-top: 0;
+  border-radius: 6px;
+  height:auto;
+  width: auto;
+}
+
+header ul{
+  margin: 0;
+  padding: 0;
+}
+
+header li{
+  float: left;
+  display: inline;
+  padding: 0 20px 0 20px;
+  color: #ffffff;
+}
+
+header a{
+  text-decoration: none;
+  color: #cccccc;
+  text-transform: uppercase;
+  font-size: 20px;
+  padding: 0;
+  margin : 0;
+}
+
+header nav{
+  float: right;
+  margin: 90px;
+  margin-bottom: 0;
+}
+.pad{
+  margin: 30px;
+}
+
+header .current{
+  color: red;
+  font-weight: bold;
+}
+section img{
+  width: 300px;
+  margin: 30px;
+}
+header .highlight{
+  color:coral;
+  border:1px coral solid;
+  padding: 5px;
+
+}
+header .look{
+  margin-right: 80px;
+}
+
+section .mimg{
+  width: 500px;
+  border: 10px 	#778899 solid;
+  border-bottom: 40px 	#778899 solid;
+  border-radius: 0;
+
+
+}
+
+/*footer*/
+footer{
+  background-color: Tomato ;
+  font-family: courier, monospace;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  border-radius:-2px;
+
+}
